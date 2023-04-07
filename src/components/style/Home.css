@@ -1,0 +1,17 @@
+.home-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 10px;
+    margin-top: 60px;
+}
+.t-shirts-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 15px;
+}
+.btn-buy-now{
+    background-color: rgba(240, 255, 255, 0.432);
+    
+}
+
+
